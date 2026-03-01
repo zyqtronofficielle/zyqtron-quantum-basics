@@ -44,7 +44,7 @@ En le maîtrisant localement dès maintenant, Zyqtron pose les fondations d’un
 - ⭐ Star le repo si tu suis l’aventure quantique souveraine  
 - 🐛 Ouvre une issue si tu veux une démo spécifique  
 - 🧪 Fork & PR : suggestions bienvenues  
-- Suivre sur X / LinkedIn : [@zyqtronofficielle] (ajoute ton handle)
+- Suivre sur X: https://x.com/Zyqtron_OS / LinkedIn : https://www.linkedin.com/in/david-serreau-zyqtron/
 
 Zyqtron : Le quantique pour tous, souverain et accessible.  
 #QuantumComputing #PostQuantum #SouveraineteNumerique #France2030
