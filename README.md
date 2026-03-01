@@ -35,21 +35,38 @@ En le maîtrisant localement dès maintenant, Zyqtron pose les fondations d’un
 - Suivre sur X: https://x.com/Zyqtron_OS / LinkedIn :https://www.linkedin.com/in/david-serreau-zyqtron/
 Zyqtron : Le quantique pour tous, souverain et accessible.
 #QuantumComputing #PostQuantum #SouveraineteNumerique #France2030
-
 ### Deuxième jalon validé : Superposition avec PennyLane
-**Date** : 1er mars 2026  
-**Outil** : PennyLane (simulateur default.qubit)  
-**Résultats bruts** :  
-- Probabilité |0⟩ : 0.500  
-- Probabilité |1⟩ : 0.500  
-
-Preuve de **superposition parfaite** sur un qubit – un phénomène quantique fondamental pour les algorithmes avancés comme le QML (Quantum Machine Learning).  
+**Date** : 1er mars 2026
+**Outil** : PennyLane (simulateur default.qubit)
+**Résultats bruts** :
+- Probabilité |0⟩ : 0.500
+- Probabilité |1⟩ : 0.500
+Preuve de **superposition parfaite** sur un qubit – un phénomène quantique fondamental pour les algorithmes avancés comme le QML (Quantum Machine Learning).
 Pas de graphique pour ce test simple, mais les probabilités théoriques sont exactes.
+### Pourquoi ce test compte pour Zyqtron
+La superposition est la base de l’avantage quantique : elle permet de traiter des états multiples en parallèle. Cela ouvre la voie à :
+- Quantum Machine Learning (QML) pour optimisation
+- Algorithmes variationnels comme VQE (chimie quantique)
+- Applications interdisciplinaires (e.g., finance, santé)
+En le maîtrisant, Zyqtron avance vers des solutions souveraines pour tous les secteurs.
+
+### Troisième jalon validé : VQE pour molécule H₂ (chimie quantique)
+**Date** : 1er mars 2026  
+**Outil** : PennyLane (simulateur default.qubit) + optimiseur Adam  
+**Itérations** : 50  
+**Résultats bruts** :  
+- Énergie finale : -0.990804  
+- Valeur théorique idéale (approximation chimique simple) : -1.136  
+
+Preuve de **convergence raisonnable** vers l’énergie de base de H₂ – une application réelle du quantique en chimie, avec un circuit variationnel optimisé localement.
+
+![Zyqtron - Convergence VQE H₂](zyqtron_vqe_histogram.png)
 
 ### Pourquoi ce test compte pour Zyqtron
-La superposition est la base de l’avantage quantique : elle permet de traiter des états multiples en parallèle. Cela ouvre la voie à :  
-- Quantum Machine Learning (QML) pour optimisation  
-- Algorithmes variationnels comme VQE (chimie quantique)  
-- Applications interdisciplinaires (e.g., finance, santé)  
+Le VQE (Variational Quantum Eigensolver) est un algorithme hybride quantique-classique pour simuler des molécules. Il ouvre la voie à :  
+- Découverte de médicaments (simu protéines)  
+- Science des matériaux (alliages avancés)  
+- Énergie (batteries quantiques)  
+- Applications interdisciplinaires (e.g., environnement, pharma)  
 
-En le maîtrisant, Zyqtron avance vers des solutions souveraines pour tous les secteurs.
+En le maîtrisant, Zyqtron pose les fondations pour des offres PhD en chimie quantique souveraine et des audits interdisciplinaires.
