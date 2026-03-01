@@ -2,3 +2,9 @@
 Premier test réussi : État de Bell (intrication) avec Qiskit Aer.
 Fidélité : 100.0 % sur 1000 shots.
 Preuve que Zyqtron simule déjà le quantique localement et souverainement.
+## Premier test : État de Bell (intrication)
+
+Résultats : 500 '00' et 500 '11' → fidélité 100.0 %  
+Preuve d'intrication parfaite sur simulateur local Aer.
+
+<image-card alt="Histogramme État de Bell" src="zyqtron_bell_histogram.png" ></image-card>
