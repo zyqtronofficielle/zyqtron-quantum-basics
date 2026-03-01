@@ -18,7 +18,7 @@ Shots : 1000
 
 Preuve d’**intrication parfaite** sur simulateur local – un phénomène quantique fondamental reproduit avec succès sur machine classique.
 
-![Histogramme État de Bell](zyqtron_bell_histogram.png)
+<image-card alt="État de Bell – 1000 shots – Fidélité 100 %" src="bell_state_histogram_1000shots.png" ></image-card>
 
 ### Pourquoi ce test est important pour Zyqtron
 L’état de Bell est la brique de base de nombreuses applications quantiques futures :  
